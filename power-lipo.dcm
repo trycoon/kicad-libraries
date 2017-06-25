@@ -1,0 +1,28 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +3.7V
+D 1 cell LiPo/Li-Ion
+K POWER, PWR
+$ENDCMP
+#
+$CMP +7.4V
+D 2 cell LiPo/Li-Ion
+K POWER, PWR
+$ENDCMP
+#
+$CMP +11.1V
+D 3 cell LiPo/Li-Ion
+K POWER, PWR
+$ENDCMP
+#
+$CMP +14.8V
+D 4 cell LiPo/Li-Ion
+K POWER, PWR
+$ENDCMP
+#
+$CMP +18.5V
+D 5 cell LiPo/Li-Ion
+K POWER, PWR
+$ENDCMP
+#
+#End Doc Library
